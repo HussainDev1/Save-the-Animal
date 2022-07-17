@@ -199,3 +199,23 @@
     padding: 5px 10px;
     cursor: pointer;
 }
+
+/* footer part start here  */
+.footer-heading {
+    text-align: center;
+    color: rgb(222, 119, 16);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+    margin-bottom: 35px;
+}
+
+footer {
+    background-color: #382f2f;
+}
+
+.footer-text {
+    text-align: center;
+    color: #efc7c7;
+}
+
+/* footer part end here  */
