@@ -55,5 +55,17 @@
     border-radius: 25px;
 }
 
+/* donation Section */
+#stats .flex-row-center {
+    background-color: #d39d2194;
+    padding: 65px 65px 40px;
+    border-radius: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    box-shadow: 0 0 3px rgba(17, 17, 17, 0.4);
+}
+
+#stats p {
+    padding-top: 15px;
+}
 
 /* header end here  */
